@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+/venv
+
+# Autres fichiers et dossiers ignorés
+
+# Ignore le fichier .env
+.env
+
+
+.idea
